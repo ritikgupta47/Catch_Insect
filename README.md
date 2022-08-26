@@ -1,3 +1,3 @@
 # Catch_Insect
 
-This is an impossible game to complete. 
+It is impossible to win this game.
